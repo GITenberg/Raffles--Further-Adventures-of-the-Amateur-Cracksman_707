@@ -1,0 +1,42 @@
+_repo: Raffles--Further-Adventures-of-the-Amateur-Cracksman_707
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hornung, E. W. (Ernest William)
+    alias: Hornung, Ernest William
+    birthdate: 1866
+    deathdate: 1921
+    gutenberg_agent_id: '364'
+    url: http://www.gutenberg.org/2009/agents/364
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_William_Hornung
+description: "The Black Mask (published in some countries as Raffles: Further Adventures\
+  \ of the Amateur Cracksman) is the second collection of stories written by Ernest\
+  \ William Hornung in the A. J. Raffles series concerning a gentleman thief in late\
+  \ Victorian London. It was first published in 1901.\nThe Short Stories contained\
+  \ in the collection are:\nNo Sinecure\nA Jubilee Present\nThe Fate of Faustina\n\
+  The Last Laugh\nTo Catch A Thief\nAn Old Flame\nThe Wrong House\nThe Knees of the\
+  \ Gods\nSeveral of the stories were adapted for the 1977 Raffles television series.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '1996-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '707'
+  wikidata: Q7718381
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcsh 'Criminals -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Raffles (Fictitious character) -- Fiction'
+- GITenberg
+tableOfContents: No sinecure -- A jubilee present -- The fate of Faustina -- The last
+  laugh -- To catch a thief -- An old flame -- The wrong house -- The knees of the
+  gods.
+title: 'Raffles: Further Adventures of the Amateur Cracksman'
+url: http://www.gutenberg.org/ebooks/707
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Black_Mask
