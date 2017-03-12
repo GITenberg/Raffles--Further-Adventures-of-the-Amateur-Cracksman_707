@@ -1,5 +1,8 @@
 _repo: Raffles--Further-Adventures-of-the-Amateur-Cracksman_707
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hornung, E. W. (Ernest William)
@@ -17,6 +20,8 @@ description: "The Black Mask (published in some countries as Raffles: Further Ad
   The Last Laugh\nTo Catch A Thief\nAn Old Flame\nThe Wrong House\nThe Knees of the\
   \ Gods\nSeveral of the stories were adapted for the 1977 Raffles television series.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/707#Raffles--Further-Adventures-of-the-Amateur-Cracksman
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '1996-11-01'
 gutenberg_type: Text
